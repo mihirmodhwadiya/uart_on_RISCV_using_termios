@@ -1,6 +1,6 @@
 # Executables
-host/uart
-firmware/firmware.elf
+uart
+firmware.elf
 
 # Build Artifacts
 *.o

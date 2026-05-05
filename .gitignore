@@ -1,0 +1,7 @@
+# Executables
+host/uart
+firmware/firmware.elf
+
+# Build Artifacts
+*.o
+*.out
